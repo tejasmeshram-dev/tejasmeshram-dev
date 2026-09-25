@@ -13,13 +13,11 @@ and strengthening problem-solving skills.
 
 ## Technologies
 
-Java • Spring Boot • PostgreSQL • Redis • Kafka • Docker • AWS
+Java • Spring Boot • PostgreSQL • Docker • AWS
 
 ## Projects
 
 - SentinelOps
-- DSA Java
-- System Design Notes
 
 <!--
 **tejasmeshram-dev/tejasmeshram-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
